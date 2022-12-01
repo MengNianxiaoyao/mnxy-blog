@@ -1,0 +1,20 @@
+{
+  "name": "mnxy-blog",
+  "version": "1.0.9",
+  "description": "静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "git add . && git commit -m update && npm version patch && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MengNianxiaoyao/mnxy-blog.git"
+  },
+  "author": "mengnianxiaoyao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MengNianxiaoyao/mnxy-blog/issues"
+  },
+  "homepage": "https://github.com/MengNianxiaoyao/imges#readme"
+}
