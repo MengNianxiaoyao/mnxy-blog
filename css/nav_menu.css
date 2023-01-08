@@ -145,6 +145,7 @@ ul.menus_item_child {
 
 #nav {
   padding: 0 calc((100% - 1420px) / 2);
+  background: linear-gradient(45deg, #f6d8f5, #c2f1f0, #f0debf) !important;
 }
 
 #nav a {
