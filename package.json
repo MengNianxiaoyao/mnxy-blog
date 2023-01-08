@@ -1,6 +1,6 @@
 {
   "name": "mnxy-blog",
-  "version": "1.0.32",
+  "version": "1.0.33",
   "description": "静态资源仓库",
   "main": "index.js",
   "scripts": {
